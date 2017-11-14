@@ -4,12 +4,12 @@ Enigma puzzle game application animates a random sequential tile pattern across 
 
 ## Usage
 ```c
-Login
-Select a settings (optional)
-Play
+1.) Login
+2.) Select a setting (optional)
+3.) Play
 ```
 ## Screenshots
-<img src="https://github.com/jbredeme/Enigma-Puzzle/blob/master/screenshots/device-2017-03-29-095006.png" width="256"> <img src="https://github.com/jbredeme/Enigma-Puzzle/blob/master/screenshots/device-2017-03-29-095221.png" width="256"> <img src="https://github.com/jbredeme/Enigma-Puzzle/blob/master/screenshots/device-2017-03-29-131328.png" width="256">
+<img src="https://github.com/jbredeme/Enigma-Puzzle/blob/master/screenshots/device-2017-03-29-095006.png" width="256"> <img src="https://github.com/jbredeme/Enigma-Puzzle/blob/master/screenshots/device-2017-03-29-095221.png" width="256"> <img src="https://github.com/jbredeme/Enigma-Puzzle/blob/master/screenshots/device-2017-03-29-131439.png" width="256">
 
 ## Built With
 * [Android Studio] release 2.3.1
