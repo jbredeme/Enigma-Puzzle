@@ -1,13 +1,15 @@
-# Anagram Game
+# Enigma Puzzle Game
 
-This is a simple Android Anagram game application that pulls words from an anagram dictionary database allows the user to perform a word play by rearranging the letters of a word to produce a new word using all the original letters exactly once. The number of words retrieved from the database is presented to the user as the denominator in a fractional notation underneath the number of correct words found (numerator).
+Enigma puzzle game application animates a random sequential tile pattern across a grid of tiles. The animation shows no more than four titles at any given time (i.e. like a slithering snake). Once the pattern animation has been completed, it is now the player's turn to reproduce the pattern by touching the titles (order does not matter) on the device. To make it interesting a player is given only three attempts to repeat a single pattern. A failed attempt is the result of selection an invalid tile. A player must complete three patterns to complete a level.
 
 ## Usage
 ```c
-Enter in a word formed by rearranging the letters of another.
+Login
+Select a settings (optional)
+Play
 ```
 ## Screenshots
-<img src="https://github.com/jbredeme/Anagram/blob/master/screenshots/device-2017-03-29-082250.png" width="256"> <img src="https://github.com/jbredeme/Anagram/blob/master/screenshots/device-2017-03-29-084419.png" width="256"> <img src="https://github.com/jbredeme/Anagram/blob/master/screenshots/device-2017-03-29-084751.png" width="256">
+<img src="https://github.com/jbredeme/Enigma-Puzzle/blob/master/screenshots/device-2017-03-29-095006.png" width="256"> <img src="https://github.com/jbredeme/Enigma-Puzzle/blob/master/screenshots/device-2017-03-29-095221.png" width="256"> <img src="https://github.com/jbredeme/Enigma-Puzzle/blob/master/screenshots/device-2017-03-29-131328.png" width="256">
 
 ## Built With
 * [Android Studio] release 2.3.1
